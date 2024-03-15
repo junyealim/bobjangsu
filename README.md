@@ -82,7 +82,7 @@
 
 ## 🚀 Result
 ### 🎨 프론트 디자인 및 결과 PPT
-[밥장수 사용자 디자인 및 기능 PPT](https://github.com/sakongmyoungheun/test/files/14611508/KDT._._.pdf)
+[밥장수 사용자 디자인 및 기능 PPT](KDT프로젝트_발표자료_밥장수.pdf)
 
 ### 🖥️ 기능
 #### 사용자
@@ -101,7 +101,8 @@
 3. 시스템 모니터링
 
 ### 활용방안 및 기대효과
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/952df35c-0493-465f-a02f-570aec24eb5e">
+<img src="https://github.com/junyealim/bobjangsu/assets/149549323/265551cc-86a0-48a1-b1f9-f92c6bdd202e" width="750" height="400">
+
 
 ### 🚀 트러블슈팅
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/afd7edc6-a786-497c-b320-f7fa58f3c063">
+<img src="https://github.com/junyealim/bobjangsu/assets/149549323/1c54246d-7f0f-43c7-9a2b-64cb4eac9f29" width="750" height="400">
